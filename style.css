@@ -5,3 +5,10 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+body {
+  height: 1131px;
+  width: 375px;
+  background: linear-gradient(180deg, #b068e9 0%, #6463e7 100%);
+  position: relative;
+}
