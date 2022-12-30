@@ -10,5 +10,21 @@ body {
   height: 1131px;
   width: 375px;
   background: linear-gradient(180deg, #b068e9 0%, #6463e7 100%);
+  /* margin: 10rem auto; */
+}
+
+.content {
   position: relative;
+  height: 642px;
+  width: 327px;
+  border-radius: 23px;
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0 50px 50px -20px rgba(53, 18, 122, 0.4972);
+}
+
+.mobile-shade {
+  background-image: url('./images/bg-pattern-mobile.svg');
+  /* background-repeat: no-repeat; */
+  /* background-size: contain; */
+  /* background-position: 50% 50%; */
 }
