@@ -46,12 +46,9 @@ body {
 .content {
   display: flex;
   flex-direction: column;
-  margin: 0 auto;
 }
 
 .content h2 {
-  height: 32px;
-  width: 67px;
   font-family: 'Kumbh Sans', sans-serif;
   font-size: 32px;
   font-weight: 700;
@@ -63,12 +60,12 @@ body {
 }
 
 .para1 {
-  height: 34px;
+  /* height: 34px; */
   width: 279px;
   margin: 0 auto;
 }
 
-/* .para1 p {
+.para1 p {
   height: 13px;
   width: 235px;
   font-family: 'Kumbh Sans', sans-serif;
@@ -77,5 +74,4 @@ body {
   line-height: 16px;
   letter-spacing: 0;
   text-align: left;
-
-} */
+}
