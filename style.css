@@ -43,6 +43,12 @@ body {
   background-position: 50% 50%;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
 .content h2 {
   height: 32px;
   width: 67px;
@@ -56,3 +62,20 @@ body {
   padding: 8.3rem 8.1rem 3.4rem 8.1rem;
 }
 
+.para1 {
+  height: 34px;
+  width: 279px;
+  margin: 0 auto;
+}
+
+/* .para1 p {
+  height: 13px;
+  width: 235px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0;
+  text-align: left;
+
+} */
