@@ -7,18 +7,17 @@
 }
 
 body {
-  height: 1131px;
   width: 375px;
   background: linear-gradient(180deg, #b068e9 0%, #6463e7 100%);
-  /* margin: 10rem auto; */
+  margin: 10rem auto;
+  position: relative;
 }
 
-.content {
-  position: relative;
+.section {
   height: 642px;
   width: 327px;
-  /* border-radius: 23px; */
-  background: rgba(255, 255, 255, 1);
+  border-radius: 23px;
+  background: #fff;
   box-shadow: 0 50px 50px -20px rgba(53, 18, 122, 0.4972);
 }
 
@@ -27,8 +26,33 @@ body {
   height: 145px;
   width: 240px;
   left: 44px;
-  top: -41px;
+  top: -24px;
   background-image: url('./images/bg-pattern-mobile.svg');
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
+
+.mobile-image {
+  position: absolute;
+  height: 179px;
+  width: 236px;
+  left: 44px;
+  top: -108px;
+  background-image: url('./images/illustration-woman-online-mobile.svg');
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.content h2 {
+  height: 32px;
+  width: 67px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(30, 31, 54, 1);
+  padding: 8.3rem 8.1rem 3.4rem 8.1rem;
+}
+
