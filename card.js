@@ -1,8 +1,8 @@
 /* When the user clicks on the arrow,
 toggle between hiding and showing the content */
-const dropdown = () => {
+function myFunction() {
   document.getElementById('myDropdown').classList.toggle('show');
-};
+}
 
 // Close the content if the user clicks outside of it
 window.onclick = (event) => {
