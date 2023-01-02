@@ -60,12 +60,13 @@ body {
 }
 
 .para1 {
-  /* height: 34px; */
   width: 279px;
   margin: 0 auto;
+  position: relative;
+  display: inline-block;
 }
 
-.para1 p {
+/* .para1 p {
   height: 13px;
   width: 235px;
   font-family: 'Kumbh Sans', sans-serif;
@@ -74,4 +75,33 @@ body {
   line-height: 16px;
   letter-spacing: 0;
   text-align: left;
+} */
+
+.drop {
+  /* background-color: #3498db; */
+  color: rgb(228, 15, 15);
+  padding: 16px;
+  border: none;
+  cursor: pointer;
+  font-size: 40px;
+}
+
+.answer {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.answer-text {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.show {
+  display: block;
 }
