@@ -26,7 +26,7 @@ body {
   position: absolute;
   height: 145px;
   width: 240px;
-  left: 44px;
+  left: 66px;
   top: -24px;
   background-image: url('./images/bg-pattern-mobile.svg');
   background-repeat: no-repeat;
@@ -37,7 +37,7 @@ body {
   position: absolute;
   height: 179px;
   width: 236px;
-  left: 44px;
+  left: 66px;
   top: -108px;
   background-image: url('./images/illustration-woman-online-mobile.svg');
   background-repeat: no-repeat;
