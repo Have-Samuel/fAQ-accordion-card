@@ -9,12 +9,13 @@
 body {
   width: 375px;
   background: linear-gradient(180deg, #b068e9 0%, #6463e7 100%);
-  margin: 10rem auto;
+  margin: 16rem auto;
   position: relative;
 }
 
 .section {
   height: 642px;
+  margin: 0 auto;
   width: 327px;
   border-radius: 23px;
   background: #fff;
