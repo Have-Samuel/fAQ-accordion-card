@@ -60,11 +60,10 @@ body {
   padding: 8.3rem 8.1rem 3.4rem 8.1rem;
 }
 
-.para1 {
+.qus-ans {
   width: 279px;
   margin: 0 auto;
   position: relative;
-  /* display: inline-block; */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -79,6 +78,10 @@ body {
   line-height: 16px;
   letter-spacing: 0;
   text-align: left;
+}
+
+.question img {
+  margin-left: 1.8rem;
 }
 
 .drop {
