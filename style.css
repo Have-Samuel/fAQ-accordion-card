@@ -96,6 +96,7 @@ h1 {
   line-height: 18px;
   display: none;
   margin: 12px auto;
+  width: 279px;
 }
 
 .visible .question {
