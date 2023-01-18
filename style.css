@@ -61,11 +61,12 @@ body {
 }
 
 .para1 {
-  /* width: 279px; */
+  width: 279px;
   margin: 0 auto;
   position: relative;
   /* display: inline-block; */
   display: flex;
+  flex-direction: column;
   justify-content: center;
 }
 
