@@ -137,7 +137,7 @@ h1 {
   .container {
     width: 100%;
     max-width: 350px;
-    margin-right: 5rem;
+    /* margin-right: 5rem; */
   }
 
   .question,
@@ -145,7 +145,7 @@ h1 {
     max-width: 350px;
   }
 
-  .answer {
+  /* .answer {
     margin: 0;
-  }
+  } */
 }
