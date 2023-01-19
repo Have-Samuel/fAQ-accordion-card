@@ -8,40 +8,32 @@
 }
 
 body {
-  width: 375px;
+  height: 100vh;
   background: linear-gradient(180deg, #b068e9 0%, #6463e7 100%);
-  margin: 16rem auto;
-  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .section {
-  height: 535px;
+  min-height: 535px;
   width: 327px;
   border-radius: 23px;
   background: #fff;
   box-shadow: 0 50px 50px -20px rgba(53, 18, 122, 0.4972);
 }
 
-.mobile-shade {
-  position: absolute;
-  height: 145px;
-  width: 240px;
-  left: 46px;
-  top: -24px;
-  background-image: url('./images/bg-pattern-mobile.svg');
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-}
-
 .mobile-image {
-  position: absolute;
-  height: 179px;
+  position: relative;
+  height: 250px;
   width: 236px;
-  left: 46px;
-  top: -108px;
-  background-image: url('./images/illustration-woman-online-mobile.svg');
+  left: 42px;
+  top: -145px;
+  background-image: url('./images/illustration-woman-online-mobile.svg'), url('./images/bg-pattern-mobile.svg');
   background-repeat: no-repeat;
-  background-position: 50% 50%;
+  background-position: center, bottom;
+  background-size: auto, 100% auto;
+  margin-bottom: -5rem;
 }
 
 h1 {
@@ -52,7 +44,7 @@ h1 {
   letter-spacing: 0;
   text-align: left;
   color: rgba(30, 31, 54, 1);
-  padding: 8.3rem 8.1rem 3.4rem 8.1rem;
+  padding: 0 8.1rem;
 }
 
 .container {
