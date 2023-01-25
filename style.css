@@ -110,7 +110,7 @@ h1 {
 @media (min-width: 1200px) {
   .section {
     display: flex;
-    justify-content: space-around;
+    gap: 19rem;
     align-items: center;
     height: 509px;
     max-width: 920px;
@@ -118,14 +118,12 @@ h1 {
     background-image: url('./images/illustration-woman-online-desktop.svg'), url('./images/bg-pattern-desktop.svg');
     background-repeat: no-repeat;
     background-position: left -75px center, left -565px bottom -148px;
-    /* background-size: auto auto; */
   }
 
   .image {
-    position: relative;
     background-image: url('./images/illustration-box-desktop.svg');
     top: 10px;
-    left: -155px;
+    left: -70px;
     background-size: auto;
     background-position: left -20px bottom 38px;
   }
@@ -137,15 +135,13 @@ h1 {
   .container {
     width: 100%;
     max-width: 350px;
-    /* margin-right: 5rem; */
   }
 
-  .question,
+  .question {
+    margin-top: 1rem;
+  }
+
   .answer {
-    max-width: 350px;
-  }
-
-  /* .answer {
     margin: 0;
-  } */
+  }
 }
