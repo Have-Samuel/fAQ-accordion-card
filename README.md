@@ -25,9 +25,9 @@ Users should be able to:
 ### Screenshot
 
 ### Mobile
-![](./images/bg-pattern-mobile.svg)
+![](./design/mobile-design.jpg)
 ### Desktop
-![](./images/bg-pattern-desktop.svg)
+![](./design/desktop-preview.jpg)
 
 ### Links
 
