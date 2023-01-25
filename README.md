@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - [Github](https://github.com/Have-Samuel/fAQ-accordion-card)
-- [Live Link]()
+- [Live Link](https://faq-accordion12.netlify.app/)
 
 ## My process
 
