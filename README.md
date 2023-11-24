@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ accordion card solution
 
-This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -25,8 +25,11 @@ Users should be able to:
 ### Screenshot
 
 ### Mobile
+
 ![](./design/mobile-design.jpg)
+
 ### Desktop
+
 ![](./design/desktop-preview.jpg)
 
 ### Links
@@ -63,7 +66,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- 🎉 Thanks to Frontend Mentor 
+- 🎉 Thanks to Frontend Mentor
 - 👋 Thumbs Up to [@Trekab](https://github.com/trekab)
 - etc
 
