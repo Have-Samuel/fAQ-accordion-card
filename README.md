@@ -36,6 +36,7 @@ Users should be able to:
 
 - [Github](https://github.com/Have-Samuel/fAQ-accordion-card)
 - [Live Link](https://faq-accordion12.netlify.app/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Have-Samuel)
 
 ## My process
 
